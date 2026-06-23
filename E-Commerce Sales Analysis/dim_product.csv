@@ -1,0 +1,1001 @@
+product_key,product_id,product_name,category,sub_category,brand
+1,PROD-00001,Nestle Coffee Pack #540,Grocery,Beverages,Nestle
+2,PROD-00002,HP Pavilion #912,Electronics,Laptops,HP
+3,PROD-00003,HP Pavilion #973,Electronics,Laptops,HP
+4,PROD-00004,Neutrogena Moisturizer #838,Beauty,Skincare,Neutrogena
+5,PROD-00005,Levi's Slim Fit Jeans #540,Clothing,Men's Wear,Levi's
+6,PROD-00006,Columbia Hiking Boots #333,Sports,Outdoor,Columbia
+7,PROD-00007,Decathlon Yoga Mat #447,Sports,Fitness,Decathlon
+8,PROD-00008,Columbia Hiking Boots #508,Sports,Outdoor,Columbia
+9,PROD-00009,Decathlon Yoga Mat #847,Sports,Fitness,Decathlon
+10,PROD-00010,HP Pavilion #420,Electronics,Laptops,HP
+11,PROD-00011,Decathlon Yoga Mat #420,Sports,Fitness,Decathlon
+12,PROD-00012,Nike Air Max #483,Clothing,Footwear,Nike
+13,PROD-00013,Apple iPad #803,Electronics,Tablets,Apple
+14,PROD-00014,Penguin Classic Novel #168,Books,Fiction,Penguin
+15,PROD-00015,Dell Inspiron #951,Electronics,Laptops,Dell
+16,PROD-00016,Dell Inspiron #195,Electronics,Laptops,Dell
+17,PROD-00017,Decathlon Yoga Mat #198,Sports,Fitness,Decathlon
+18,PROD-00018,Philips Air Fryer #931,Home & Kitchen,Appliances,Philips
+19,PROD-00019,Apple iPad #669,Electronics,Tablets,Apple
+20,PROD-00020,Samsung Galaxy #700,Electronics,Smartphones,Samsung
+21,PROD-00021,Neutrogena Moisturizer #675,Beauty,Skincare,Neutrogena
+22,PROD-00022,Prestige Non-Stick Pan #786,Home & Kitchen,Cookware,Prestige
+23,PROD-00023,HP Pavilion #520,Electronics,Laptops,HP
+24,PROD-00024,Philips Air Fryer #994,Home & Kitchen,Appliances,Philips
+25,PROD-00025,Decathlon Yoga Mat #988,Sports,Fitness,Decathlon
+26,PROD-00026,Samsung Galaxy #394,Electronics,Smartphones,Samsung
+27,PROD-00027,Nestle Coffee Pack #419,Grocery,Beverages,Nestle
+28,PROD-00028,Philips Air Fryer #206,Home & Kitchen,Appliances,Philips
+29,PROD-00029,L'Oreal Shampoo #619,Beauty,Haircare,L'Oreal
+30,PROD-00030,Levi's Slim Fit Jeans #258,Clothing,Men's Wear,Levi's
+31,PROD-00031,Penguin Classic Novel #329,Books,Fiction,Penguin
+32,PROD-00032,HP Pavilion #458,Electronics,Laptops,HP
+33,PROD-00033,Neutrogena Moisturizer #476,Beauty,Skincare,Neutrogena
+34,PROD-00034,HP Pavilion #880,Electronics,Laptops,HP
+35,PROD-00035,Nike Air Max #687,Clothing,Footwear,Nike
+36,PROD-00036,Zara Summer Dress #926,Clothing,Women's Wear,Zara
+37,PROD-00037,Decathlon Yoga Mat #965,Sports,Fitness,Decathlon
+38,PROD-00038,Neutrogena Moisturizer #885,Beauty,Skincare,Neutrogena
+39,PROD-00039,Nestle Coffee Pack #728,Grocery,Beverages,Nestle
+40,PROD-00040,Neutrogena Moisturizer #126,Beauty,Skincare,Neutrogena
+41,PROD-00041,Nestle Coffee Pack #773,Grocery,Beverages,Nestle
+42,PROD-00042,Nike Air Max #129,Clothing,Footwear,Nike
+43,PROD-00043,Sony WH #379,Electronics,Headphones,Sony
+44,PROD-00044,Adidas Ultraboost #447,Clothing,Footwear,Adidas
+45,PROD-00045,Philips Air Fryer #106,Home & Kitchen,Appliances,Philips
+46,PROD-00046,Sony WH #990,Electronics,Headphones,Sony
+47,PROD-00047,Apple iPad #679,Electronics,Tablets,Apple
+48,PROD-00048,IKEA Bookshelf #171,Home & Kitchen,Furniture,IKEA
+49,PROD-00049,Apple iPad #858,Electronics,Tablets,Apple
+50,PROD-00050,Apple iPhone #193,Electronics,Smartphones,Apple
+51,PROD-00051,HarperCollins Business Guide #320,Books,Non-Fiction,HarperCollins
+52,PROD-00052,IKEA Bookshelf #529,Home & Kitchen,Furniture,IKEA
+53,PROD-00053,Columbia Hiking Boots #449,Sports,Outdoor,Columbia
+54,PROD-00054,Sony WH #478,Electronics,Headphones,Sony
+55,PROD-00055,Adidas Ultraboost #838,Clothing,Footwear,Adidas
+56,PROD-00056,Prestige Non-Stick Pan #895,Home & Kitchen,Cookware,Prestige
+57,PROD-00057,L'Oreal Shampoo #710,Beauty,Haircare,L'Oreal
+58,PROD-00058,Dell Inspiron #153,Electronics,Laptops,Dell
+59,PROD-00059,Apple iPad #261,Electronics,Tablets,Apple
+60,PROD-00060,Nestle Coffee Pack #150,Grocery,Beverages,Nestle
+61,PROD-00061,Dell Inspiron #378,Electronics,Laptops,Dell
+62,PROD-00062,Columbia Hiking Boots #777,Sports,Outdoor,Columbia
+63,PROD-00063,Decathlon Yoga Mat #597,Sports,Fitness,Decathlon
+64,PROD-00064,Nestle Coffee Pack #552,Grocery,Beverages,Nestle
+65,PROD-00065,Decathlon Yoga Mat #379,Sports,Fitness,Decathlon
+66,PROD-00066,Levi's Slim Fit Jeans #873,Clothing,Men's Wear,Levi's
+67,PROD-00067,HarperCollins Business Guide #216,Books,Non-Fiction,HarperCollins
+68,PROD-00068,Philips Air Fryer #540,Home & Kitchen,Appliances,Philips
+69,PROD-00069,HP Pavilion #390,Electronics,Laptops,HP
+70,PROD-00070,L'Oreal Shampoo #598,Beauty,Haircare,L'Oreal
+71,PROD-00071,HarperCollins Business Guide #783,Books,Non-Fiction,HarperCollins
+72,PROD-00072,Adidas Ultraboost #146,Clothing,Footwear,Adidas
+73,PROD-00073,Zara Summer Dress #504,Clothing,Women's Wear,Zara
+74,PROD-00074,Nestle Coffee Pack #156,Grocery,Beverages,Nestle
+75,PROD-00075,Apple iPhone #309,Electronics,Smartphones,Apple
+76,PROD-00076,Adidas Ultraboost #316,Clothing,Footwear,Adidas
+77,PROD-00077,Apple iPad #882,Electronics,Tablets,Apple
+78,PROD-00078,Nike Air Max #396,Clothing,Footwear,Nike
+79,PROD-00079,Prestige Non-Stick Pan #222,Home & Kitchen,Cookware,Prestige
+80,PROD-00080,Apple iPhone #609,Electronics,Smartphones,Apple
+81,PROD-00081,Decathlon Yoga Mat #279,Sports,Fitness,Decathlon
+82,PROD-00082,Apple iPad #489,Electronics,Tablets,Apple
+83,PROD-00083,Neutrogena Moisturizer #820,Beauty,Skincare,Neutrogena
+84,PROD-00084,Zara Summer Dress #612,Clothing,Women's Wear,Zara
+85,PROD-00085,Neutrogena Moisturizer #953,Beauty,Skincare,Neutrogena
+86,PROD-00086,Philips Air Fryer #173,Home & Kitchen,Appliances,Philips
+87,PROD-00087,IKEA Bookshelf #982,Home & Kitchen,Furniture,IKEA
+88,PROD-00088,Samsung Galaxy #546,Electronics,Smartphones,Samsung
+89,PROD-00089,Apple iPhone #570,Electronics,Smartphones,Apple
+90,PROD-00090,Dell Inspiron #982,Electronics,Laptops,Dell
+91,PROD-00091,Prestige Non-Stick Pan #689,Home & Kitchen,Cookware,Prestige
+92,PROD-00092,Decathlon Yoga Mat #687,Sports,Fitness,Decathlon
+93,PROD-00093,IKEA Bookshelf #826,Home & Kitchen,Furniture,IKEA
+94,PROD-00094,Decathlon Yoga Mat #396,Sports,Fitness,Decathlon
+95,PROD-00095,HP Pavilion #514,Electronics,Laptops,HP
+96,PROD-00096,Apple iPhone #432,Electronics,Smartphones,Apple
+97,PROD-00097,Sony WH #920,Electronics,Headphones,Sony
+98,PROD-00098,Nestle Coffee Pack #571,Grocery,Beverages,Nestle
+99,PROD-00099,Philips Air Fryer #190,Home & Kitchen,Appliances,Philips
+100,PROD-00100,Decathlon Yoga Mat #964,Sports,Fitness,Decathlon
+101,PROD-00101,HP Pavilion #349,Electronics,Laptops,HP
+102,PROD-00102,Decathlon Yoga Mat #703,Sports,Fitness,Decathlon
+103,PROD-00103,IKEA Bookshelf #636,Home & Kitchen,Furniture,IKEA
+104,PROD-00104,Dell Inspiron #505,Electronics,Laptops,Dell
+105,PROD-00105,Adidas Ultraboost #863,Clothing,Footwear,Adidas
+106,PROD-00106,Prestige Non-Stick Pan #326,Home & Kitchen,Cookware,Prestige
+107,PROD-00107,Prestige Non-Stick Pan #897,Home & Kitchen,Cookware,Prestige
+108,PROD-00108,Sony WH #178,Electronics,Headphones,Sony
+109,PROD-00109,HarperCollins Business Guide #748,Books,Non-Fiction,HarperCollins
+110,PROD-00110,HP Pavilion #643,Electronics,Laptops,HP
+111,PROD-00111,HarperCollins Business Guide #298,Books,Non-Fiction,HarperCollins
+112,PROD-00112,Philips Air Fryer #459,Home & Kitchen,Appliances,Philips
+113,PROD-00113,Apple iPad #341,Electronics,Tablets,Apple
+114,PROD-00114,HP Pavilion #249,Electronics,Laptops,HP
+115,PROD-00115,Nike Air Max #302,Clothing,Footwear,Nike
+116,PROD-00116,Sony WH #716,Electronics,Headphones,Sony
+117,PROD-00117,Apple iPad #878,Electronics,Tablets,Apple
+118,PROD-00118,Dell Inspiron #281,Electronics,Laptops,Dell
+119,PROD-00119,Penguin Classic Novel #575,Books,Fiction,Penguin
+120,PROD-00120,L'Oreal Shampoo #878,Beauty,Haircare,L'Oreal
+121,PROD-00121,L'Oreal Shampoo #559,Beauty,Haircare,L'Oreal
+122,PROD-00122,L'Oreal Shampoo #758,Beauty,Haircare,L'Oreal
+123,PROD-00123,Nestle Coffee Pack #430,Grocery,Beverages,Nestle
+124,PROD-00124,Prestige Non-Stick Pan #254,Home & Kitchen,Cookware,Prestige
+125,PROD-00125,Columbia Hiking Boots #169,Sports,Outdoor,Columbia
+126,PROD-00126,Penguin Classic Novel #552,Books,Fiction,Penguin
+127,PROD-00127,Adidas Ultraboost #915,Clothing,Footwear,Adidas
+128,PROD-00128,Nike Air Max #705,Clothing,Footwear,Nike
+129,PROD-00129,Samsung Galaxy #460,Electronics,Smartphones,Samsung
+130,PROD-00130,HarperCollins Business Guide #175,Books,Non-Fiction,HarperCollins
+131,PROD-00131,Adidas Ultraboost #572,Clothing,Footwear,Adidas
+132,PROD-00132,Columbia Hiking Boots #138,Sports,Outdoor,Columbia
+133,PROD-00133,Samsung Galaxy #477,Electronics,Smartphones,Samsung
+134,PROD-00134,Adidas Ultraboost #178,Clothing,Footwear,Adidas
+135,PROD-00135,Dell Inspiron #729,Electronics,Laptops,Dell
+136,PROD-00136,Nestle Coffee Pack #619,Grocery,Beverages,Nestle
+137,PROD-00137,IKEA Bookshelf #573,Home & Kitchen,Furniture,IKEA
+138,PROD-00138,L'Oreal Shampoo #667,Beauty,Haircare,L'Oreal
+139,PROD-00139,Samsung Galaxy #560,Electronics,Smartphones,Samsung
+140,PROD-00140,L'Oreal Shampoo #767,Beauty,Haircare,L'Oreal
+141,PROD-00141,Levi's Slim Fit Jeans #429,Clothing,Men's Wear,Levi's
+142,PROD-00142,Nestle Coffee Pack #587,Grocery,Beverages,Nestle
+143,PROD-00143,HarperCollins Business Guide #254,Books,Non-Fiction,HarperCollins
+144,PROD-00144,Samsung Galaxy #561,Electronics,Smartphones,Samsung
+145,PROD-00145,HP Pavilion #930,Electronics,Laptops,HP
+146,PROD-00146,Prestige Non-Stick Pan #831,Home & Kitchen,Cookware,Prestige
+147,PROD-00147,Dell Inspiron #616,Electronics,Laptops,Dell
+148,PROD-00148,Sony WH #140,Electronics,Headphones,Sony
+149,PROD-00149,Zara Summer Dress #824,Clothing,Women's Wear,Zara
+150,PROD-00150,Columbia Hiking Boots #549,Sports,Outdoor,Columbia
+151,PROD-00151,HarperCollins Business Guide #635,Books,Non-Fiction,HarperCollins
+152,PROD-00152,Nestle Coffee Pack #262,Grocery,Beverages,Nestle
+153,PROD-00153,Philips Air Fryer #481,Home & Kitchen,Appliances,Philips
+154,PROD-00154,Adidas Ultraboost #496,Clothing,Footwear,Adidas
+155,PROD-00155,Decathlon Yoga Mat #893,Sports,Fitness,Decathlon
+156,PROD-00156,Prestige Non-Stick Pan #795,Home & Kitchen,Cookware,Prestige
+157,PROD-00157,Nestle Coffee Pack #153,Grocery,Beverages,Nestle
+158,PROD-00158,Prestige Non-Stick Pan #167,Home & Kitchen,Cookware,Prestige
+159,PROD-00159,Prestige Non-Stick Pan #196,Home & Kitchen,Cookware,Prestige
+160,PROD-00160,Neutrogena Moisturizer #794,Beauty,Skincare,Neutrogena
+161,PROD-00161,IKEA Bookshelf #390,Home & Kitchen,Furniture,IKEA
+162,PROD-00162,Nike Air Max #841,Clothing,Footwear,Nike
+163,PROD-00163,Nestle Coffee Pack #994,Grocery,Beverages,Nestle
+164,PROD-00164,Apple iPad #441,Electronics,Tablets,Apple
+165,PROD-00165,Dell Inspiron #696,Electronics,Laptops,Dell
+166,PROD-00166,Apple iPad #458,Electronics,Tablets,Apple
+167,PROD-00167,Adidas Ultraboost #771,Clothing,Footwear,Adidas
+168,PROD-00168,IKEA Bookshelf #232,Home & Kitchen,Furniture,IKEA
+169,PROD-00169,Nestle Coffee Pack #825,Grocery,Beverages,Nestle
+170,PROD-00170,Dell Inspiron #417,Electronics,Laptops,Dell
+171,PROD-00171,Neutrogena Moisturizer #485,Beauty,Skincare,Neutrogena
+172,PROD-00172,Prestige Non-Stick Pan #932,Home & Kitchen,Cookware,Prestige
+173,PROD-00173,Apple iPad #786,Electronics,Tablets,Apple
+174,PROD-00174,HarperCollins Business Guide #195,Books,Non-Fiction,HarperCollins
+175,PROD-00175,Decathlon Yoga Mat #620,Sports,Fitness,Decathlon
+176,PROD-00176,Philips Air Fryer #118,Home & Kitchen,Appliances,Philips
+177,PROD-00177,Philips Air Fryer #416,Home & Kitchen,Appliances,Philips
+178,PROD-00178,Sony WH #319,Electronics,Headphones,Sony
+179,PROD-00179,Prestige Non-Stick Pan #884,Home & Kitchen,Cookware,Prestige
+180,PROD-00180,Penguin Classic Novel #296,Books,Fiction,Penguin
+181,PROD-00181,Zara Summer Dress #240,Clothing,Women's Wear,Zara
+182,PROD-00182,Apple iPad #179,Electronics,Tablets,Apple
+183,PROD-00183,Adidas Ultraboost #964,Clothing,Footwear,Adidas
+184,PROD-00184,HP Pavilion #619,Electronics,Laptops,HP
+185,PROD-00185,Neutrogena Moisturizer #955,Beauty,Skincare,Neutrogena
+186,PROD-00186,HarperCollins Business Guide #138,Books,Non-Fiction,HarperCollins
+187,PROD-00187,Prestige Non-Stick Pan #997,Home & Kitchen,Cookware,Prestige
+188,PROD-00188,Nestle Coffee Pack #234,Grocery,Beverages,Nestle
+189,PROD-00189,Nestle Coffee Pack #485,Grocery,Beverages,Nestle
+190,PROD-00190,Apple iPad #266,Electronics,Tablets,Apple
+191,PROD-00191,Sony WH #951,Electronics,Headphones,Sony
+192,PROD-00192,Nestle Coffee Pack #928,Grocery,Beverages,Nestle
+193,PROD-00193,Sony WH #838,Electronics,Headphones,Sony
+194,PROD-00194,Columbia Hiking Boots #144,Sports,Outdoor,Columbia
+195,PROD-00195,Decathlon Yoga Mat #473,Sports,Fitness,Decathlon
+196,PROD-00196,Zara Summer Dress #554,Clothing,Women's Wear,Zara
+197,PROD-00197,Nestle Coffee Pack #391,Grocery,Beverages,Nestle
+198,PROD-00198,Columbia Hiking Boots #339,Sports,Outdoor,Columbia
+199,PROD-00199,Neutrogena Moisturizer #344,Beauty,Skincare,Neutrogena
+200,PROD-00200,Adidas Ultraboost #928,Clothing,Footwear,Adidas
+201,PROD-00201,Penguin Classic Novel #955,Books,Fiction,Penguin
+202,PROD-00202,Levi's Slim Fit Jeans #476,Clothing,Men's Wear,Levi's
+203,PROD-00203,L'Oreal Shampoo #551,Beauty,Haircare,L'Oreal
+204,PROD-00204,Columbia Hiking Boots #887,Sports,Outdoor,Columbia
+205,PROD-00205,Adidas Ultraboost #896,Clothing,Footwear,Adidas
+206,PROD-00206,IKEA Bookshelf #614,Home & Kitchen,Furniture,IKEA
+207,PROD-00207,HarperCollins Business Guide #528,Books,Non-Fiction,HarperCollins
+208,PROD-00208,Sony WH #936,Electronics,Headphones,Sony
+209,PROD-00209,Levi's Slim Fit Jeans #920,Clothing,Men's Wear,Levi's
+210,PROD-00210,Nestle Coffee Pack #241,Grocery,Beverages,Nestle
+211,PROD-00211,Nike Air Max #153,Clothing,Footwear,Nike
+212,PROD-00212,Penguin Classic Novel #995,Books,Fiction,Penguin
+213,PROD-00213,Philips Air Fryer #667,Home & Kitchen,Appliances,Philips
+214,PROD-00214,HP Pavilion #828,Electronics,Laptops,HP
+215,PROD-00215,HarperCollins Business Guide #971,Books,Non-Fiction,HarperCollins
+216,PROD-00216,HP Pavilion #391,Electronics,Laptops,HP
+217,PROD-00217,Dell Inspiron #881,Electronics,Laptops,Dell
+218,PROD-00218,Sony WH #379,Electronics,Headphones,Sony
+219,PROD-00219,Columbia Hiking Boots #625,Sports,Outdoor,Columbia
+220,PROD-00220,Apple iPad #950,Electronics,Tablets,Apple
+221,PROD-00221,Decathlon Yoga Mat #193,Sports,Fitness,Decathlon
+222,PROD-00222,Zara Summer Dress #936,Clothing,Women's Wear,Zara
+223,PROD-00223,Columbia Hiking Boots #457,Sports,Outdoor,Columbia
+224,PROD-00224,Apple iPhone #524,Electronics,Smartphones,Apple
+225,PROD-00225,Samsung Galaxy #505,Electronics,Smartphones,Samsung
+226,PROD-00226,HarperCollins Business Guide #482,Books,Non-Fiction,HarperCollins
+227,PROD-00227,Zara Summer Dress #495,Clothing,Women's Wear,Zara
+228,PROD-00228,Dell Inspiron #483,Electronics,Laptops,Dell
+229,PROD-00229,Zara Summer Dress #128,Clothing,Women's Wear,Zara
+230,PROD-00230,Prestige Non-Stick Pan #201,Home & Kitchen,Cookware,Prestige
+231,PROD-00231,Prestige Non-Stick Pan #910,Home & Kitchen,Cookware,Prestige
+232,PROD-00232,Apple iPad #240,Electronics,Tablets,Apple
+233,PROD-00233,Samsung Galaxy #393,Electronics,Smartphones,Samsung
+234,PROD-00234,Penguin Classic Novel #812,Books,Fiction,Penguin
+235,PROD-00235,Apple iPad #877,Electronics,Tablets,Apple
+236,PROD-00236,Penguin Classic Novel #559,Books,Fiction,Penguin
+237,PROD-00237,Nestle Coffee Pack #105,Grocery,Beverages,Nestle
+238,PROD-00238,Dell Inspiron #119,Electronics,Laptops,Dell
+239,PROD-00239,Nike Air Max #320,Clothing,Footwear,Nike
+240,PROD-00240,Apple iPad #661,Electronics,Tablets,Apple
+241,PROD-00241,Nestle Coffee Pack #640,Grocery,Beverages,Nestle
+242,PROD-00242,Decathlon Yoga Mat #213,Sports,Fitness,Decathlon
+243,PROD-00243,Adidas Ultraboost #343,Clothing,Footwear,Adidas
+244,PROD-00244,Adidas Ultraboost #224,Clothing,Footwear,Adidas
+245,PROD-00245,Samsung Galaxy #344,Electronics,Smartphones,Samsung
+246,PROD-00246,Decathlon Yoga Mat #754,Sports,Fitness,Decathlon
+247,PROD-00247,Nestle Coffee Pack #568,Grocery,Beverages,Nestle
+248,PROD-00248,Dell Inspiron #213,Electronics,Laptops,Dell
+249,PROD-00249,Penguin Classic Novel #711,Books,Fiction,Penguin
+250,PROD-00250,Neutrogena Moisturizer #116,Beauty,Skincare,Neutrogena
+251,PROD-00251,HarperCollins Business Guide #688,Books,Non-Fiction,HarperCollins
+252,PROD-00252,Zara Summer Dress #835,Clothing,Women's Wear,Zara
+253,PROD-00253,Apple iPad #398,Electronics,Tablets,Apple
+254,PROD-00254,Decathlon Yoga Mat #101,Sports,Fitness,Decathlon
+255,PROD-00255,Nestle Coffee Pack #461,Grocery,Beverages,Nestle
+256,PROD-00256,Zara Summer Dress #684,Clothing,Women's Wear,Zara
+257,PROD-00257,Decathlon Yoga Mat #291,Sports,Fitness,Decathlon
+258,PROD-00258,Dell Inspiron #636,Electronics,Laptops,Dell
+259,PROD-00259,Philips Air Fryer #169,Home & Kitchen,Appliances,Philips
+260,PROD-00260,HarperCollins Business Guide #657,Books,Non-Fiction,HarperCollins
+261,PROD-00261,HarperCollins Business Guide #905,Books,Non-Fiction,HarperCollins
+262,PROD-00262,HarperCollins Business Guide #667,Books,Non-Fiction,HarperCollins
+263,PROD-00263,Apple iPhone #499,Electronics,Smartphones,Apple
+264,PROD-00264,Penguin Classic Novel #144,Books,Fiction,Penguin
+265,PROD-00265,IKEA Bookshelf #482,Home & Kitchen,Furniture,IKEA
+266,PROD-00266,Nike Air Max #865,Clothing,Footwear,Nike
+267,PROD-00267,Apple iPhone #465,Electronics,Smartphones,Apple
+268,PROD-00268,Dell Inspiron #453,Electronics,Laptops,Dell
+269,PROD-00269,Zara Summer Dress #850,Clothing,Women's Wear,Zara
+270,PROD-00270,HP Pavilion #890,Electronics,Laptops,HP
+271,PROD-00271,L'Oreal Shampoo #852,Beauty,Haircare,L'Oreal
+272,PROD-00272,Prestige Non-Stick Pan #236,Home & Kitchen,Cookware,Prestige
+273,PROD-00273,Samsung Galaxy #460,Electronics,Smartphones,Samsung
+274,PROD-00274,Neutrogena Moisturizer #446,Beauty,Skincare,Neutrogena
+275,PROD-00275,Sony WH #950,Electronics,Headphones,Sony
+276,PROD-00276,Columbia Hiking Boots #812,Sports,Outdoor,Columbia
+277,PROD-00277,Penguin Classic Novel #746,Books,Fiction,Penguin
+278,PROD-00278,Sony WH #930,Electronics,Headphones,Sony
+279,PROD-00279,Apple iPad #164,Electronics,Tablets,Apple
+280,PROD-00280,Columbia Hiking Boots #137,Sports,Outdoor,Columbia
+281,PROD-00281,Adidas Ultraboost #306,Clothing,Footwear,Adidas
+282,PROD-00282,Samsung Galaxy #910,Electronics,Smartphones,Samsung
+283,PROD-00283,Levi's Slim Fit Jeans #142,Clothing,Men's Wear,Levi's
+284,PROD-00284,Prestige Non-Stick Pan #417,Home & Kitchen,Cookware,Prestige
+285,PROD-00285,HarperCollins Business Guide #507,Books,Non-Fiction,HarperCollins
+286,PROD-00286,Neutrogena Moisturizer #584,Beauty,Skincare,Neutrogena
+287,PROD-00287,Nike Air Max #137,Clothing,Footwear,Nike
+288,PROD-00288,Levi's Slim Fit Jeans #392,Clothing,Men's Wear,Levi's
+289,PROD-00289,Philips Air Fryer #982,Home & Kitchen,Appliances,Philips
+290,PROD-00290,Samsung Galaxy #986,Electronics,Smartphones,Samsung
+291,PROD-00291,Prestige Non-Stick Pan #379,Home & Kitchen,Cookware,Prestige
+292,PROD-00292,HP Pavilion #918,Electronics,Laptops,HP
+293,PROD-00293,Philips Air Fryer #547,Home & Kitchen,Appliances,Philips
+294,PROD-00294,IKEA Bookshelf #861,Home & Kitchen,Furniture,IKEA
+295,PROD-00295,Columbia Hiking Boots #495,Sports,Outdoor,Columbia
+296,PROD-00296,Prestige Non-Stick Pan #291,Home & Kitchen,Cookware,Prestige
+297,PROD-00297,Penguin Classic Novel #808,Books,Fiction,Penguin
+298,PROD-00298,Penguin Classic Novel #476,Books,Fiction,Penguin
+299,PROD-00299,HarperCollins Business Guide #373,Books,Non-Fiction,HarperCollins
+300,PROD-00300,Dell Inspiron #844,Electronics,Laptops,Dell
+301,PROD-00301,Decathlon Yoga Mat #180,Sports,Fitness,Decathlon
+302,PROD-00302,Decathlon Yoga Mat #716,Sports,Fitness,Decathlon
+303,PROD-00303,Sony WH #658,Electronics,Headphones,Sony
+304,PROD-00304,Adidas Ultraboost #428,Clothing,Footwear,Adidas
+305,PROD-00305,HP Pavilion #181,Electronics,Laptops,HP
+306,PROD-00306,Prestige Non-Stick Pan #776,Home & Kitchen,Cookware,Prestige
+307,PROD-00307,Adidas Ultraboost #413,Clothing,Footwear,Adidas
+308,PROD-00308,Columbia Hiking Boots #717,Sports,Outdoor,Columbia
+309,PROD-00309,Decathlon Yoga Mat #270,Sports,Fitness,Decathlon
+310,PROD-00310,Columbia Hiking Boots #459,Sports,Outdoor,Columbia
+311,PROD-00311,Columbia Hiking Boots #143,Sports,Outdoor,Columbia
+312,PROD-00312,Philips Air Fryer #729,Home & Kitchen,Appliances,Philips
+313,PROD-00313,Decathlon Yoga Mat #381,Sports,Fitness,Decathlon
+314,PROD-00314,Samsung Galaxy #176,Electronics,Smartphones,Samsung
+315,PROD-00315,IKEA Bookshelf #472,Home & Kitchen,Furniture,IKEA
+316,PROD-00316,HarperCollins Business Guide #920,Books,Non-Fiction,HarperCollins
+317,PROD-00317,Sony WH #131,Electronics,Headphones,Sony
+318,PROD-00318,Apple iPad #969,Electronics,Tablets,Apple
+319,PROD-00319,Nestle Coffee Pack #794,Grocery,Beverages,Nestle
+320,PROD-00320,Columbia Hiking Boots #135,Sports,Outdoor,Columbia
+321,PROD-00321,Apple iPad #168,Electronics,Tablets,Apple
+322,PROD-00322,Zara Summer Dress #897,Clothing,Women's Wear,Zara
+323,PROD-00323,Philips Air Fryer #470,Home & Kitchen,Appliances,Philips
+324,PROD-00324,IKEA Bookshelf #680,Home & Kitchen,Furniture,IKEA
+325,PROD-00325,Samsung Galaxy #719,Electronics,Smartphones,Samsung
+326,PROD-00326,Apple iPad #795,Electronics,Tablets,Apple
+327,PROD-00327,Columbia Hiking Boots #479,Sports,Outdoor,Columbia
+328,PROD-00328,Philips Air Fryer #554,Home & Kitchen,Appliances,Philips
+329,PROD-00329,Dell Inspiron #687,Electronics,Laptops,Dell
+330,PROD-00330,Apple iPad #642,Electronics,Tablets,Apple
+331,PROD-00331,Philips Air Fryer #507,Home & Kitchen,Appliances,Philips
+332,PROD-00332,Prestige Non-Stick Pan #765,Home & Kitchen,Cookware,Prestige
+333,PROD-00333,Nike Air Max #355,Clothing,Footwear,Nike
+334,PROD-00334,HP Pavilion #126,Electronics,Laptops,HP
+335,PROD-00335,Sony WH #611,Electronics,Headphones,Sony
+336,PROD-00336,HarperCollins Business Guide #496,Books,Non-Fiction,HarperCollins
+337,PROD-00337,Neutrogena Moisturizer #220,Beauty,Skincare,Neutrogena
+338,PROD-00338,Nike Air Max #893,Clothing,Footwear,Nike
+339,PROD-00339,Nike Air Max #820,Clothing,Footwear,Nike
+340,PROD-00340,Columbia Hiking Boots #319,Sports,Outdoor,Columbia
+341,PROD-00341,Nestle Coffee Pack #392,Grocery,Beverages,Nestle
+342,PROD-00342,Penguin Classic Novel #304,Books,Fiction,Penguin
+343,PROD-00343,HP Pavilion #238,Electronics,Laptops,HP
+344,PROD-00344,Dell Inspiron #562,Electronics,Laptops,Dell
+345,PROD-00345,Sony WH #830,Electronics,Headphones,Sony
+346,PROD-00346,Columbia Hiking Boots #189,Sports,Outdoor,Columbia
+347,PROD-00347,Prestige Non-Stick Pan #783,Home & Kitchen,Cookware,Prestige
+348,PROD-00348,Philips Air Fryer #826,Home & Kitchen,Appliances,Philips
+349,PROD-00349,Dell Inspiron #663,Electronics,Laptops,Dell
+350,PROD-00350,Neutrogena Moisturizer #397,Beauty,Skincare,Neutrogena
+351,PROD-00351,Adidas Ultraboost #971,Clothing,Footwear,Adidas
+352,PROD-00352,Sony WH #828,Electronics,Headphones,Sony
+353,PROD-00353,Sony WH #912,Electronics,Headphones,Sony
+354,PROD-00354,Philips Air Fryer #620,Home & Kitchen,Appliances,Philips
+355,PROD-00355,Zara Summer Dress #224,Clothing,Women's Wear,Zara
+356,PROD-00356,Levi's Slim Fit Jeans #911,Clothing,Men's Wear,Levi's
+357,PROD-00357,Apple iPad #342,Electronics,Tablets,Apple
+358,PROD-00358,Penguin Classic Novel #126,Books,Fiction,Penguin
+359,PROD-00359,Philips Air Fryer #667,Home & Kitchen,Appliances,Philips
+360,PROD-00360,L'Oreal Shampoo #477,Beauty,Haircare,L'Oreal
+361,PROD-00361,Columbia Hiking Boots #922,Sports,Outdoor,Columbia
+362,PROD-00362,Neutrogena Moisturizer #232,Beauty,Skincare,Neutrogena
+363,PROD-00363,Nestle Coffee Pack #188,Grocery,Beverages,Nestle
+364,PROD-00364,Dell Inspiron #416,Electronics,Laptops,Dell
+365,PROD-00365,IKEA Bookshelf #834,Home & Kitchen,Furniture,IKEA
+366,PROD-00366,Penguin Classic Novel #638,Books,Fiction,Penguin
+367,PROD-00367,Decathlon Yoga Mat #887,Sports,Fitness,Decathlon
+368,PROD-00368,Decathlon Yoga Mat #943,Sports,Fitness,Decathlon
+369,PROD-00369,L'Oreal Shampoo #175,Beauty,Haircare,L'Oreal
+370,PROD-00370,Apple iPad #424,Electronics,Tablets,Apple
+371,PROD-00371,Dell Inspiron #560,Electronics,Laptops,Dell
+372,PROD-00372,Columbia Hiking Boots #796,Sports,Outdoor,Columbia
+373,PROD-00373,HarperCollins Business Guide #452,Books,Non-Fiction,HarperCollins
+374,PROD-00374,Apple iPad #999,Electronics,Tablets,Apple
+375,PROD-00375,Neutrogena Moisturizer #755,Beauty,Skincare,Neutrogena
+376,PROD-00376,L'Oreal Shampoo #286,Beauty,Haircare,L'Oreal
+377,PROD-00377,Apple iPad #543,Electronics,Tablets,Apple
+378,PROD-00378,HarperCollins Business Guide #989,Books,Non-Fiction,HarperCollins
+379,PROD-00379,Samsung Galaxy #951,Electronics,Smartphones,Samsung
+380,PROD-00380,HP Pavilion #630,Electronics,Laptops,HP
+381,PROD-00381,Apple iPad #411,Electronics,Tablets,Apple
+382,PROD-00382,Sony WH #265,Electronics,Headphones,Sony
+383,PROD-00383,Prestige Non-Stick Pan #826,Home & Kitchen,Cookware,Prestige
+384,PROD-00384,Zara Summer Dress #454,Clothing,Women's Wear,Zara
+385,PROD-00385,HarperCollins Business Guide #390,Books,Non-Fiction,HarperCollins
+386,PROD-00386,Dell Inspiron #356,Electronics,Laptops,Dell
+387,PROD-00387,Levi's Slim Fit Jeans #750,Clothing,Men's Wear,Levi's
+388,PROD-00388,Neutrogena Moisturizer #381,Beauty,Skincare,Neutrogena
+389,PROD-00389,Apple iPad #740,Electronics,Tablets,Apple
+390,PROD-00390,Adidas Ultraboost #729,Clothing,Footwear,Adidas
+391,PROD-00391,Neutrogena Moisturizer #195,Beauty,Skincare,Neutrogena
+392,PROD-00392,HarperCollins Business Guide #756,Books,Non-Fiction,HarperCollins
+393,PROD-00393,Sony WH #706,Electronics,Headphones,Sony
+394,PROD-00394,L'Oreal Shampoo #257,Beauty,Haircare,L'Oreal
+395,PROD-00395,Sony WH #774,Electronics,Headphones,Sony
+396,PROD-00396,Nestle Coffee Pack #837,Grocery,Beverages,Nestle
+397,PROD-00397,Nestle Coffee Pack #445,Grocery,Beverages,Nestle
+398,PROD-00398,L'Oreal Shampoo #142,Beauty,Haircare,L'Oreal
+399,PROD-00399,Apple iPhone #183,Electronics,Smartphones,Apple
+400,PROD-00400,Samsung Galaxy #756,Electronics,Smartphones,Samsung
+401,PROD-00401,L'Oreal Shampoo #371,Beauty,Haircare,L'Oreal
+402,PROD-00402,Levi's Slim Fit Jeans #885,Clothing,Men's Wear,Levi's
+403,PROD-00403,L'Oreal Shampoo #526,Beauty,Haircare,L'Oreal
+404,PROD-00404,Nestle Coffee Pack #754,Grocery,Beverages,Nestle
+405,PROD-00405,Apple iPhone #609,Electronics,Smartphones,Apple
+406,PROD-00406,Neutrogena Moisturizer #396,Beauty,Skincare,Neutrogena
+407,PROD-00407,Adidas Ultraboost #594,Clothing,Footwear,Adidas
+408,PROD-00408,Zara Summer Dress #924,Clothing,Women's Wear,Zara
+409,PROD-00409,IKEA Bookshelf #404,Home & Kitchen,Furniture,IKEA
+410,PROD-00410,Columbia Hiking Boots #174,Sports,Outdoor,Columbia
+411,PROD-00411,Samsung Galaxy #261,Electronics,Smartphones,Samsung
+412,PROD-00412,Columbia Hiking Boots #525,Sports,Outdoor,Columbia
+413,PROD-00413,Penguin Classic Novel #575,Books,Fiction,Penguin
+414,PROD-00414,Levi's Slim Fit Jeans #448,Clothing,Men's Wear,Levi's
+415,PROD-00415,Nestle Coffee Pack #247,Grocery,Beverages,Nestle
+416,PROD-00416,Prestige Non-Stick Pan #982,Home & Kitchen,Cookware,Prestige
+417,PROD-00417,Prestige Non-Stick Pan #851,Home & Kitchen,Cookware,Prestige
+418,PROD-00418,Philips Air Fryer #508,Home & Kitchen,Appliances,Philips
+419,PROD-00419,Apple iPad #878,Electronics,Tablets,Apple
+420,PROD-00420,Philips Air Fryer #627,Home & Kitchen,Appliances,Philips
+421,PROD-00421,Neutrogena Moisturizer #208,Beauty,Skincare,Neutrogena
+422,PROD-00422,Prestige Non-Stick Pan #347,Home & Kitchen,Cookware,Prestige
+423,PROD-00423,Columbia Hiking Boots #225,Sports,Outdoor,Columbia
+424,PROD-00424,Nike Air Max #560,Clothing,Footwear,Nike
+425,PROD-00425,Zara Summer Dress #244,Clothing,Women's Wear,Zara
+426,PROD-00426,HP Pavilion #151,Electronics,Laptops,HP
+427,PROD-00427,Adidas Ultraboost #493,Clothing,Footwear,Adidas
+428,PROD-00428,Nestle Coffee Pack #528,Grocery,Beverages,Nestle
+429,PROD-00429,Zara Summer Dress #986,Clothing,Women's Wear,Zara
+430,PROD-00430,Sony WH #933,Electronics,Headphones,Sony
+431,PROD-00431,Prestige Non-Stick Pan #691,Home & Kitchen,Cookware,Prestige
+432,PROD-00432,Prestige Non-Stick Pan #294,Home & Kitchen,Cookware,Prestige
+433,PROD-00433,Sony WH #610,Electronics,Headphones,Sony
+434,PROD-00434,HarperCollins Business Guide #578,Books,Non-Fiction,HarperCollins
+435,PROD-00435,Penguin Classic Novel #415,Books,Fiction,Penguin
+436,PROD-00436,Penguin Classic Novel #123,Books,Fiction,Penguin
+437,PROD-00437,Dell Inspiron #502,Electronics,Laptops,Dell
+438,PROD-00438,HarperCollins Business Guide #568,Books,Non-Fiction,HarperCollins
+439,PROD-00439,Zara Summer Dress #320,Clothing,Women's Wear,Zara
+440,PROD-00440,L'Oreal Shampoo #461,Beauty,Haircare,L'Oreal
+441,PROD-00441,Samsung Galaxy #151,Electronics,Smartphones,Samsung
+442,PROD-00442,Adidas Ultraboost #606,Clothing,Footwear,Adidas
+443,PROD-00443,Nestle Coffee Pack #963,Grocery,Beverages,Nestle
+444,PROD-00444,Penguin Classic Novel #392,Books,Fiction,Penguin
+445,PROD-00445,Neutrogena Moisturizer #108,Beauty,Skincare,Neutrogena
+446,PROD-00446,HP Pavilion #541,Electronics,Laptops,HP
+447,PROD-00447,Apple iPad #370,Electronics,Tablets,Apple
+448,PROD-00448,Philips Air Fryer #882,Home & Kitchen,Appliances,Philips
+449,PROD-00449,IKEA Bookshelf #474,Home & Kitchen,Furniture,IKEA
+450,PROD-00450,Samsung Galaxy #510,Electronics,Smartphones,Samsung
+451,PROD-00451,Samsung Galaxy #683,Electronics,Smartphones,Samsung
+452,PROD-00452,Neutrogena Moisturizer #299,Beauty,Skincare,Neutrogena
+453,PROD-00453,Philips Air Fryer #666,Home & Kitchen,Appliances,Philips
+454,PROD-00454,Adidas Ultraboost #175,Clothing,Footwear,Adidas
+455,PROD-00455,IKEA Bookshelf #616,Home & Kitchen,Furniture,IKEA
+456,PROD-00456,Columbia Hiking Boots #882,Sports,Outdoor,Columbia
+457,PROD-00457,Neutrogena Moisturizer #386,Beauty,Skincare,Neutrogena
+458,PROD-00458,Nestle Coffee Pack #796,Grocery,Beverages,Nestle
+459,PROD-00459,Nestle Coffee Pack #221,Grocery,Beverages,Nestle
+460,PROD-00460,Apple iPad #199,Electronics,Tablets,Apple
+461,PROD-00461,IKEA Bookshelf #482,Home & Kitchen,Furniture,IKEA
+462,PROD-00462,Prestige Non-Stick Pan #671,Home & Kitchen,Cookware,Prestige
+463,PROD-00463,Philips Air Fryer #873,Home & Kitchen,Appliances,Philips
+464,PROD-00464,Apple iPad #303,Electronics,Tablets,Apple
+465,PROD-00465,Nestle Coffee Pack #621,Grocery,Beverages,Nestle
+466,PROD-00466,IKEA Bookshelf #612,Home & Kitchen,Furniture,IKEA
+467,PROD-00467,Samsung Galaxy #146,Electronics,Smartphones,Samsung
+468,PROD-00468,Samsung Galaxy #240,Electronics,Smartphones,Samsung
+469,PROD-00469,Prestige Non-Stick Pan #923,Home & Kitchen,Cookware,Prestige
+470,PROD-00470,Penguin Classic Novel #631,Books,Fiction,Penguin
+471,PROD-00471,Columbia Hiking Boots #252,Sports,Outdoor,Columbia
+472,PROD-00472,Nestle Coffee Pack #627,Grocery,Beverages,Nestle
+473,PROD-00473,Apple iPad #435,Electronics,Tablets,Apple
+474,PROD-00474,Nestle Coffee Pack #426,Grocery,Beverages,Nestle
+475,PROD-00475,Sony WH #502,Electronics,Headphones,Sony
+476,PROD-00476,Nestle Coffee Pack #857,Grocery,Beverages,Nestle
+477,PROD-00477,Adidas Ultraboost #707,Clothing,Footwear,Adidas
+478,PROD-00478,Prestige Non-Stick Pan #619,Home & Kitchen,Cookware,Prestige
+479,PROD-00479,HarperCollins Business Guide #645,Books,Non-Fiction,HarperCollins
+480,PROD-00480,Penguin Classic Novel #825,Books,Fiction,Penguin
+481,PROD-00481,L'Oreal Shampoo #406,Beauty,Haircare,L'Oreal
+482,PROD-00482,Penguin Classic Novel #935,Books,Fiction,Penguin
+483,PROD-00483,Apple iPhone #477,Electronics,Smartphones,Apple
+484,PROD-00484,Prestige Non-Stick Pan #789,Home & Kitchen,Cookware,Prestige
+485,PROD-00485,HP Pavilion #526,Electronics,Laptops,HP
+486,PROD-00486,L'Oreal Shampoo #415,Beauty,Haircare,L'Oreal
+487,PROD-00487,Apple iPhone #711,Electronics,Smartphones,Apple
+488,PROD-00488,Penguin Classic Novel #371,Books,Fiction,Penguin
+489,PROD-00489,L'Oreal Shampoo #691,Beauty,Haircare,L'Oreal
+490,PROD-00490,Zara Summer Dress #838,Clothing,Women's Wear,Zara
+491,PROD-00491,Samsung Galaxy #697,Electronics,Smartphones,Samsung
+492,PROD-00492,Penguin Classic Novel #274,Books,Fiction,Penguin
+493,PROD-00493,HarperCollins Business Guide #744,Books,Non-Fiction,HarperCollins
+494,PROD-00494,Nestle Coffee Pack #893,Grocery,Beverages,Nestle
+495,PROD-00495,IKEA Bookshelf #251,Home & Kitchen,Furniture,IKEA
+496,PROD-00496,Zara Summer Dress #132,Clothing,Women's Wear,Zara
+497,PROD-00497,L'Oreal Shampoo #817,Beauty,Haircare,L'Oreal
+498,PROD-00498,HP Pavilion #295,Electronics,Laptops,HP
+499,PROD-00499,Apple iPhone #551,Electronics,Smartphones,Apple
+500,PROD-00500,Prestige Non-Stick Pan #528,Home & Kitchen,Cookware,Prestige
+501,PROD-00501,Apple iPad #522,Electronics,Tablets,Apple
+502,PROD-00502,Levi's Slim Fit Jeans #520,Clothing,Men's Wear,Levi's
+503,PROD-00503,HarperCollins Business Guide #893,Books,Non-Fiction,HarperCollins
+504,PROD-00504,Nestle Coffee Pack #582,Grocery,Beverages,Nestle
+505,PROD-00505,Samsung Galaxy #822,Electronics,Smartphones,Samsung
+506,PROD-00506,Apple iPad #631,Electronics,Tablets,Apple
+507,PROD-00507,Levi's Slim Fit Jeans #674,Clothing,Men's Wear,Levi's
+508,PROD-00508,Prestige Non-Stick Pan #778,Home & Kitchen,Cookware,Prestige
+509,PROD-00509,Penguin Classic Novel #638,Books,Fiction,Penguin
+510,PROD-00510,IKEA Bookshelf #421,Home & Kitchen,Furniture,IKEA
+511,PROD-00511,Sony WH #570,Electronics,Headphones,Sony
+512,PROD-00512,Neutrogena Moisturizer #450,Beauty,Skincare,Neutrogena
+513,PROD-00513,Neutrogena Moisturizer #462,Beauty,Skincare,Neutrogena
+514,PROD-00514,Nike Air Max #724,Clothing,Footwear,Nike
+515,PROD-00515,Penguin Classic Novel #296,Books,Fiction,Penguin
+516,PROD-00516,Zara Summer Dress #385,Clothing,Women's Wear,Zara
+517,PROD-00517,Neutrogena Moisturizer #405,Beauty,Skincare,Neutrogena
+518,PROD-00518,Zara Summer Dress #404,Clothing,Women's Wear,Zara
+519,PROD-00519,Adidas Ultraboost #821,Clothing,Footwear,Adidas
+520,PROD-00520,Levi's Slim Fit Jeans #806,Clothing,Men's Wear,Levi's
+521,PROD-00521,Penguin Classic Novel #424,Books,Fiction,Penguin
+522,PROD-00522,Penguin Classic Novel #457,Books,Fiction,Penguin
+523,PROD-00523,Neutrogena Moisturizer #914,Beauty,Skincare,Neutrogena
+524,PROD-00524,Nike Air Max #394,Clothing,Footwear,Nike
+525,PROD-00525,HP Pavilion #687,Electronics,Laptops,HP
+526,PROD-00526,Neutrogena Moisturizer #488,Beauty,Skincare,Neutrogena
+527,PROD-00527,IKEA Bookshelf #938,Home & Kitchen,Furniture,IKEA
+528,PROD-00528,Philips Air Fryer #891,Home & Kitchen,Appliances,Philips
+529,PROD-00529,Apple iPad #397,Electronics,Tablets,Apple
+530,PROD-00530,Samsung Galaxy #394,Electronics,Smartphones,Samsung
+531,PROD-00531,Dell Inspiron #454,Electronics,Laptops,Dell
+532,PROD-00532,Columbia Hiking Boots #771,Sports,Outdoor,Columbia
+533,PROD-00533,Nike Air Max #865,Clothing,Footwear,Nike
+534,PROD-00534,Penguin Classic Novel #319,Books,Fiction,Penguin
+535,PROD-00535,Levi's Slim Fit Jeans #947,Clothing,Men's Wear,Levi's
+536,PROD-00536,Neutrogena Moisturizer #377,Beauty,Skincare,Neutrogena
+537,PROD-00537,Neutrogena Moisturizer #812,Beauty,Skincare,Neutrogena
+538,PROD-00538,Nike Air Max #240,Clothing,Footwear,Nike
+539,PROD-00539,HP Pavilion #730,Electronics,Laptops,HP
+540,PROD-00540,L'Oreal Shampoo #345,Beauty,Haircare,L'Oreal
+541,PROD-00541,Zara Summer Dress #151,Clothing,Women's Wear,Zara
+542,PROD-00542,HarperCollins Business Guide #331,Books,Non-Fiction,HarperCollins
+543,PROD-00543,Zara Summer Dress #153,Clothing,Women's Wear,Zara
+544,PROD-00544,HP Pavilion #523,Electronics,Laptops,HP
+545,PROD-00545,Prestige Non-Stick Pan #834,Home & Kitchen,Cookware,Prestige
+546,PROD-00546,Penguin Classic Novel #202,Books,Fiction,Penguin
+547,PROD-00547,Apple iPad #105,Electronics,Tablets,Apple
+548,PROD-00548,Neutrogena Moisturizer #261,Beauty,Skincare,Neutrogena
+549,PROD-00549,Decathlon Yoga Mat #768,Sports,Fitness,Decathlon
+550,PROD-00550,Penguin Classic Novel #588,Books,Fiction,Penguin
+551,PROD-00551,Levi's Slim Fit Jeans #874,Clothing,Men's Wear,Levi's
+552,PROD-00552,Adidas Ultraboost #428,Clothing,Footwear,Adidas
+553,PROD-00553,Adidas Ultraboost #761,Clothing,Footwear,Adidas
+554,PROD-00554,Samsung Galaxy #887,Electronics,Smartphones,Samsung
+555,PROD-00555,Dell Inspiron #767,Electronics,Laptops,Dell
+556,PROD-00556,L'Oreal Shampoo #337,Beauty,Haircare,L'Oreal
+557,PROD-00557,Neutrogena Moisturizer #856,Beauty,Skincare,Neutrogena
+558,PROD-00558,Samsung Galaxy #279,Electronics,Smartphones,Samsung
+559,PROD-00559,Decathlon Yoga Mat #957,Sports,Fitness,Decathlon
+560,PROD-00560,Sony WH #137,Electronics,Headphones,Sony
+561,PROD-00561,IKEA Bookshelf #906,Home & Kitchen,Furniture,IKEA
+562,PROD-00562,Penguin Classic Novel #290,Books,Fiction,Penguin
+563,PROD-00563,Adidas Ultraboost #997,Clothing,Footwear,Adidas
+564,PROD-00564,Samsung Galaxy #109,Electronics,Smartphones,Samsung
+565,PROD-00565,Adidas Ultraboost #681,Clothing,Footwear,Adidas
+566,PROD-00566,Nestle Coffee Pack #209,Grocery,Beverages,Nestle
+567,PROD-00567,Prestige Non-Stick Pan #391,Home & Kitchen,Cookware,Prestige
+568,PROD-00568,Columbia Hiking Boots #756,Sports,Outdoor,Columbia
+569,PROD-00569,Neutrogena Moisturizer #636,Beauty,Skincare,Neutrogena
+570,PROD-00570,Penguin Classic Novel #237,Books,Fiction,Penguin
+571,PROD-00571,HarperCollins Business Guide #579,Books,Non-Fiction,HarperCollins
+572,PROD-00572,Nike Air Max #297,Clothing,Footwear,Nike
+573,PROD-00573,HP Pavilion #438,Electronics,Laptops,HP
+574,PROD-00574,Sony WH #848,Electronics,Headphones,Sony
+575,PROD-00575,Columbia Hiking Boots #763,Sports,Outdoor,Columbia
+576,PROD-00576,Nike Air Max #835,Clothing,Footwear,Nike
+577,PROD-00577,Sony WH #114,Electronics,Headphones,Sony
+578,PROD-00578,Prestige Non-Stick Pan #909,Home & Kitchen,Cookware,Prestige
+579,PROD-00579,Adidas Ultraboost #681,Clothing,Footwear,Adidas
+580,PROD-00580,Levi's Slim Fit Jeans #279,Clothing,Men's Wear,Levi's
+581,PROD-00581,Nestle Coffee Pack #976,Grocery,Beverages,Nestle
+582,PROD-00582,IKEA Bookshelf #946,Home & Kitchen,Furniture,IKEA
+583,PROD-00583,Decathlon Yoga Mat #627,Sports,Fitness,Decathlon
+584,PROD-00584,Prestige Non-Stick Pan #188,Home & Kitchen,Cookware,Prestige
+585,PROD-00585,IKEA Bookshelf #785,Home & Kitchen,Furniture,IKEA
+586,PROD-00586,HP Pavilion #289,Electronics,Laptops,HP
+587,PROD-00587,Apple iPad #588,Electronics,Tablets,Apple
+588,PROD-00588,Prestige Non-Stick Pan #354,Home & Kitchen,Cookware,Prestige
+589,PROD-00589,Apple iPhone #367,Electronics,Smartphones,Apple
+590,PROD-00590,IKEA Bookshelf #341,Home & Kitchen,Furniture,IKEA
+591,PROD-00591,Columbia Hiking Boots #871,Sports,Outdoor,Columbia
+592,PROD-00592,Nike Air Max #437,Clothing,Footwear,Nike
+593,PROD-00593,Adidas Ultraboost #696,Clothing,Footwear,Adidas
+594,PROD-00594,L'Oreal Shampoo #111,Beauty,Haircare,L'Oreal
+595,PROD-00595,Nike Air Max #769,Clothing,Footwear,Nike
+596,PROD-00596,Philips Air Fryer #809,Home & Kitchen,Appliances,Philips
+597,PROD-00597,Zara Summer Dress #163,Clothing,Women's Wear,Zara
+598,PROD-00598,HP Pavilion #576,Electronics,Laptops,HP
+599,PROD-00599,Adidas Ultraboost #263,Clothing,Footwear,Adidas
+600,PROD-00600,IKEA Bookshelf #802,Home & Kitchen,Furniture,IKEA
+601,PROD-00601,HarperCollins Business Guide #820,Books,Non-Fiction,HarperCollins
+602,PROD-00602,Adidas Ultraboost #806,Clothing,Footwear,Adidas
+603,PROD-00603,HP Pavilion #754,Electronics,Laptops,HP
+604,PROD-00604,Adidas Ultraboost #476,Clothing,Footwear,Adidas
+605,PROD-00605,Nestle Coffee Pack #326,Grocery,Beverages,Nestle
+606,PROD-00606,Zara Summer Dress #236,Clothing,Women's Wear,Zara
+607,PROD-00607,Penguin Classic Novel #256,Books,Fiction,Penguin
+608,PROD-00608,Columbia Hiking Boots #865,Sports,Outdoor,Columbia
+609,PROD-00609,Nestle Coffee Pack #482,Grocery,Beverages,Nestle
+610,PROD-00610,Decathlon Yoga Mat #818,Sports,Fitness,Decathlon
+611,PROD-00611,Neutrogena Moisturizer #582,Beauty,Skincare,Neutrogena
+612,PROD-00612,Neutrogena Moisturizer #921,Beauty,Skincare,Neutrogena
+613,PROD-00613,Levi's Slim Fit Jeans #880,Clothing,Men's Wear,Levi's
+614,PROD-00614,Zara Summer Dress #796,Clothing,Women's Wear,Zara
+615,PROD-00615,Nestle Coffee Pack #994,Grocery,Beverages,Nestle
+616,PROD-00616,Dell Inspiron #638,Electronics,Laptops,Dell
+617,PROD-00617,Columbia Hiking Boots #640,Sports,Outdoor,Columbia
+618,PROD-00618,Philips Air Fryer #179,Home & Kitchen,Appliances,Philips
+619,PROD-00619,L'Oreal Shampoo #214,Beauty,Haircare,L'Oreal
+620,PROD-00620,Samsung Galaxy #948,Electronics,Smartphones,Samsung
+621,PROD-00621,Neutrogena Moisturizer #617,Beauty,Skincare,Neutrogena
+622,PROD-00622,Levi's Slim Fit Jeans #686,Clothing,Men's Wear,Levi's
+623,PROD-00623,Neutrogena Moisturizer #253,Beauty,Skincare,Neutrogena
+624,PROD-00624,Sony WH #435,Electronics,Headphones,Sony
+625,PROD-00625,HarperCollins Business Guide #552,Books,Non-Fiction,HarperCollins
+626,PROD-00626,HP Pavilion #796,Electronics,Laptops,HP
+627,PROD-00627,Levi's Slim Fit Jeans #834,Clothing,Men's Wear,Levi's
+628,PROD-00628,L'Oreal Shampoo #600,Beauty,Haircare,L'Oreal
+629,PROD-00629,Dell Inspiron #622,Electronics,Laptops,Dell
+630,PROD-00630,Columbia Hiking Boots #928,Sports,Outdoor,Columbia
+631,PROD-00631,Samsung Galaxy #564,Electronics,Smartphones,Samsung
+632,PROD-00632,Apple iPad #625,Electronics,Tablets,Apple
+633,PROD-00633,Decathlon Yoga Mat #567,Sports,Fitness,Decathlon
+634,PROD-00634,L'Oreal Shampoo #159,Beauty,Haircare,L'Oreal
+635,PROD-00635,Neutrogena Moisturizer #573,Beauty,Skincare,Neutrogena
+636,PROD-00636,Adidas Ultraboost #840,Clothing,Footwear,Adidas
+637,PROD-00637,Apple iPhone #505,Electronics,Smartphones,Apple
+638,PROD-00638,Nike Air Max #936,Clothing,Footwear,Nike
+639,PROD-00639,Apple iPhone #863,Electronics,Smartphones,Apple
+640,PROD-00640,Levi's Slim Fit Jeans #692,Clothing,Men's Wear,Levi's
+641,PROD-00641,Dell Inspiron #146,Electronics,Laptops,Dell
+642,PROD-00642,Decathlon Yoga Mat #452,Sports,Fitness,Decathlon
+643,PROD-00643,Dell Inspiron #654,Electronics,Laptops,Dell
+644,PROD-00644,Samsung Galaxy #170,Electronics,Smartphones,Samsung
+645,PROD-00645,Penguin Classic Novel #132,Books,Fiction,Penguin
+646,PROD-00646,Adidas Ultraboost #518,Clothing,Footwear,Adidas
+647,PROD-00647,Sony WH #887,Electronics,Headphones,Sony
+648,PROD-00648,Apple iPad #884,Electronics,Tablets,Apple
+649,PROD-00649,Decathlon Yoga Mat #483,Sports,Fitness,Decathlon
+650,PROD-00650,IKEA Bookshelf #559,Home & Kitchen,Furniture,IKEA
+651,PROD-00651,IKEA Bookshelf #484,Home & Kitchen,Furniture,IKEA
+652,PROD-00652,Dell Inspiron #799,Electronics,Laptops,Dell
+653,PROD-00653,Neutrogena Moisturizer #236,Beauty,Skincare,Neutrogena
+654,PROD-00654,Philips Air Fryer #221,Home & Kitchen,Appliances,Philips
+655,PROD-00655,Sony WH #650,Electronics,Headphones,Sony
+656,PROD-00656,IKEA Bookshelf #641,Home & Kitchen,Furniture,IKEA
+657,PROD-00657,Apple iPad #845,Electronics,Tablets,Apple
+658,PROD-00658,Zara Summer Dress #954,Clothing,Women's Wear,Zara
+659,PROD-00659,Apple iPhone #874,Electronics,Smartphones,Apple
+660,PROD-00660,Apple iPhone #405,Electronics,Smartphones,Apple
+661,PROD-00661,Columbia Hiking Boots #789,Sports,Outdoor,Columbia
+662,PROD-00662,Neutrogena Moisturizer #534,Beauty,Skincare,Neutrogena
+663,PROD-00663,Neutrogena Moisturizer #488,Beauty,Skincare,Neutrogena
+664,PROD-00664,Zara Summer Dress #353,Clothing,Women's Wear,Zara
+665,PROD-00665,Columbia Hiking Boots #454,Sports,Outdoor,Columbia
+666,PROD-00666,Apple iPad #382,Electronics,Tablets,Apple
+667,PROD-00667,Levi's Slim Fit Jeans #996,Clothing,Men's Wear,Levi's
+668,PROD-00668,HP Pavilion #132,Electronics,Laptops,HP
+669,PROD-00669,Decathlon Yoga Mat #729,Sports,Fitness,Decathlon
+670,PROD-00670,Apple iPhone #346,Electronics,Smartphones,Apple
+671,PROD-00671,Levi's Slim Fit Jeans #168,Clothing,Men's Wear,Levi's
+672,PROD-00672,HP Pavilion #708,Electronics,Laptops,HP
+673,PROD-00673,Samsung Galaxy #557,Electronics,Smartphones,Samsung
+674,PROD-00674,Nestle Coffee Pack #788,Grocery,Beverages,Nestle
+675,PROD-00675,Samsung Galaxy #350,Electronics,Smartphones,Samsung
+676,PROD-00676,Samsung Galaxy #511,Electronics,Smartphones,Samsung
+677,PROD-00677,Columbia Hiking Boots #339,Sports,Outdoor,Columbia
+678,PROD-00678,Neutrogena Moisturizer #322,Beauty,Skincare,Neutrogena
+679,PROD-00679,Samsung Galaxy #243,Electronics,Smartphones,Samsung
+680,PROD-00680,HarperCollins Business Guide #396,Books,Non-Fiction,HarperCollins
+681,PROD-00681,Zara Summer Dress #935,Clothing,Women's Wear,Zara
+682,PROD-00682,L'Oreal Shampoo #426,Beauty,Haircare,L'Oreal
+683,PROD-00683,L'Oreal Shampoo #712,Beauty,Haircare,L'Oreal
+684,PROD-00684,Prestige Non-Stick Pan #342,Home & Kitchen,Cookware,Prestige
+685,PROD-00685,Adidas Ultraboost #997,Clothing,Footwear,Adidas
+686,PROD-00686,Apple iPad #776,Electronics,Tablets,Apple
+687,PROD-00687,HarperCollins Business Guide #326,Books,Non-Fiction,HarperCollins
+688,PROD-00688,Decathlon Yoga Mat #407,Sports,Fitness,Decathlon
+689,PROD-00689,Nike Air Max #162,Clothing,Footwear,Nike
+690,PROD-00690,Neutrogena Moisturizer #705,Beauty,Skincare,Neutrogena
+691,PROD-00691,Sony WH #741,Electronics,Headphones,Sony
+692,PROD-00692,Decathlon Yoga Mat #669,Sports,Fitness,Decathlon
+693,PROD-00693,Penguin Classic Novel #148,Books,Fiction,Penguin
+694,PROD-00694,Philips Air Fryer #758,Home & Kitchen,Appliances,Philips
+695,PROD-00695,IKEA Bookshelf #904,Home & Kitchen,Furniture,IKEA
+696,PROD-00696,HarperCollins Business Guide #426,Books,Non-Fiction,HarperCollins
+697,PROD-00697,Decathlon Yoga Mat #518,Sports,Fitness,Decathlon
+698,PROD-00698,Apple iPad #407,Electronics,Tablets,Apple
+699,PROD-00699,IKEA Bookshelf #288,Home & Kitchen,Furniture,IKEA
+700,PROD-00700,Neutrogena Moisturizer #584,Beauty,Skincare,Neutrogena
+701,PROD-00701,Zara Summer Dress #969,Clothing,Women's Wear,Zara
+702,PROD-00702,Zara Summer Dress #407,Clothing,Women's Wear,Zara
+703,PROD-00703,Apple iPad #925,Electronics,Tablets,Apple
+704,PROD-00704,Columbia Hiking Boots #159,Sports,Outdoor,Columbia
+705,PROD-00705,Neutrogena Moisturizer #522,Beauty,Skincare,Neutrogena
+706,PROD-00706,Decathlon Yoga Mat #670,Sports,Fitness,Decathlon
+707,PROD-00707,HarperCollins Business Guide #237,Books,Non-Fiction,HarperCollins
+708,PROD-00708,IKEA Bookshelf #348,Home & Kitchen,Furniture,IKEA
+709,PROD-00709,Nike Air Max #308,Clothing,Footwear,Nike
+710,PROD-00710,Prestige Non-Stick Pan #762,Home & Kitchen,Cookware,Prestige
+711,PROD-00711,Dell Inspiron #560,Electronics,Laptops,Dell
+712,PROD-00712,Philips Air Fryer #194,Home & Kitchen,Appliances,Philips
+713,PROD-00713,Neutrogena Moisturizer #841,Beauty,Skincare,Neutrogena
+714,PROD-00714,Levi's Slim Fit Jeans #152,Clothing,Men's Wear,Levi's
+715,PROD-00715,Nike Air Max #486,Clothing,Footwear,Nike
+716,PROD-00716,Nestle Coffee Pack #717,Grocery,Beverages,Nestle
+717,PROD-00717,Samsung Galaxy #994,Electronics,Smartphones,Samsung
+718,PROD-00718,Dell Inspiron #292,Electronics,Laptops,Dell
+719,PROD-00719,L'Oreal Shampoo #841,Beauty,Haircare,L'Oreal
+720,PROD-00720,Neutrogena Moisturizer #322,Beauty,Skincare,Neutrogena
+721,PROD-00721,Penguin Classic Novel #313,Books,Fiction,Penguin
+722,PROD-00722,Prestige Non-Stick Pan #410,Home & Kitchen,Cookware,Prestige
+723,PROD-00723,Apple iPhone #316,Electronics,Smartphones,Apple
+724,PROD-00724,Levi's Slim Fit Jeans #859,Clothing,Men's Wear,Levi's
+725,PROD-00725,HP Pavilion #864,Electronics,Laptops,HP
+726,PROD-00726,Penguin Classic Novel #348,Books,Fiction,Penguin
+727,PROD-00727,Nestle Coffee Pack #820,Grocery,Beverages,Nestle
+728,PROD-00728,Levi's Slim Fit Jeans #506,Clothing,Men's Wear,Levi's
+729,PROD-00729,Zara Summer Dress #665,Clothing,Women's Wear,Zara
+730,PROD-00730,Prestige Non-Stick Pan #894,Home & Kitchen,Cookware,Prestige
+731,PROD-00731,Adidas Ultraboost #489,Clothing,Footwear,Adidas
+732,PROD-00732,Columbia Hiking Boots #646,Sports,Outdoor,Columbia
+733,PROD-00733,Philips Air Fryer #415,Home & Kitchen,Appliances,Philips
+734,PROD-00734,Nike Air Max #468,Clothing,Footwear,Nike
+735,PROD-00735,HarperCollins Business Guide #609,Books,Non-Fiction,HarperCollins
+736,PROD-00736,Columbia Hiking Boots #200,Sports,Outdoor,Columbia
+737,PROD-00737,Penguin Classic Novel #879,Books,Fiction,Penguin
+738,PROD-00738,Prestige Non-Stick Pan #308,Home & Kitchen,Cookware,Prestige
+739,PROD-00739,Philips Air Fryer #420,Home & Kitchen,Appliances,Philips
+740,PROD-00740,Decathlon Yoga Mat #146,Sports,Fitness,Decathlon
+741,PROD-00741,L'Oreal Shampoo #984,Beauty,Haircare,L'Oreal
+742,PROD-00742,Zara Summer Dress #859,Clothing,Women's Wear,Zara
+743,PROD-00743,Apple iPad #116,Electronics,Tablets,Apple
+744,PROD-00744,Nike Air Max #666,Clothing,Footwear,Nike
+745,PROD-00745,L'Oreal Shampoo #693,Beauty,Haircare,L'Oreal
+746,PROD-00746,Decathlon Yoga Mat #402,Sports,Fitness,Decathlon
+747,PROD-00747,Apple iPad #300,Electronics,Tablets,Apple
+748,PROD-00748,Prestige Non-Stick Pan #335,Home & Kitchen,Cookware,Prestige
+749,PROD-00749,IKEA Bookshelf #683,Home & Kitchen,Furniture,IKEA
+750,PROD-00750,Zara Summer Dress #611,Clothing,Women's Wear,Zara
+751,PROD-00751,Neutrogena Moisturizer #770,Beauty,Skincare,Neutrogena
+752,PROD-00752,Prestige Non-Stick Pan #363,Home & Kitchen,Cookware,Prestige
+753,PROD-00753,Penguin Classic Novel #840,Books,Fiction,Penguin
+754,PROD-00754,Penguin Classic Novel #571,Books,Fiction,Penguin
+755,PROD-00755,Sony WH #850,Electronics,Headphones,Sony
+756,PROD-00756,Philips Air Fryer #273,Home & Kitchen,Appliances,Philips
+757,PROD-00757,Apple iPad #837,Electronics,Tablets,Apple
+758,PROD-00758,Neutrogena Moisturizer #600,Beauty,Skincare,Neutrogena
+759,PROD-00759,Sony WH #655,Electronics,Headphones,Sony
+760,PROD-00760,Samsung Galaxy #636,Electronics,Smartphones,Samsung
+761,PROD-00761,Samsung Galaxy #959,Electronics,Smartphones,Samsung
+762,PROD-00762,Dell Inspiron #937,Electronics,Laptops,Dell
+763,PROD-00763,Samsung Galaxy #882,Electronics,Smartphones,Samsung
+764,PROD-00764,Apple iPhone #522,Electronics,Smartphones,Apple
+765,PROD-00765,Apple iPad #962,Electronics,Tablets,Apple
+766,PROD-00766,Zara Summer Dress #169,Clothing,Women's Wear,Zara
+767,PROD-00767,Apple iPad #109,Electronics,Tablets,Apple
+768,PROD-00768,Levi's Slim Fit Jeans #617,Clothing,Men's Wear,Levi's
+769,PROD-00769,Columbia Hiking Boots #482,Sports,Outdoor,Columbia
+770,PROD-00770,Samsung Galaxy #732,Electronics,Smartphones,Samsung
+771,PROD-00771,Nestle Coffee Pack #594,Grocery,Beverages,Nestle
+772,PROD-00772,Penguin Classic Novel #116,Books,Fiction,Penguin
+773,PROD-00773,Apple iPhone #644,Electronics,Smartphones,Apple
+774,PROD-00774,Neutrogena Moisturizer #521,Beauty,Skincare,Neutrogena
+775,PROD-00775,Apple iPhone #117,Electronics,Smartphones,Apple
+776,PROD-00776,HarperCollins Business Guide #839,Books,Non-Fiction,HarperCollins
+777,PROD-00777,Nike Air Max #648,Clothing,Footwear,Nike
+778,PROD-00778,Adidas Ultraboost #117,Clothing,Footwear,Adidas
+779,PROD-00779,HarperCollins Business Guide #932,Books,Non-Fiction,HarperCollins
+780,PROD-00780,Decathlon Yoga Mat #925,Sports,Fitness,Decathlon
+781,PROD-00781,Sony WH #209,Electronics,Headphones,Sony
+782,PROD-00782,HP Pavilion #636,Electronics,Laptops,HP
+783,PROD-00783,Apple iPad #346,Electronics,Tablets,Apple
+784,PROD-00784,Levi's Slim Fit Jeans #734,Clothing,Men's Wear,Levi's
+785,PROD-00785,HarperCollins Business Guide #358,Books,Non-Fiction,HarperCollins
+786,PROD-00786,Philips Air Fryer #373,Home & Kitchen,Appliances,Philips
+787,PROD-00787,IKEA Bookshelf #180,Home & Kitchen,Furniture,IKEA
+788,PROD-00788,Philips Air Fryer #515,Home & Kitchen,Appliances,Philips
+789,PROD-00789,Columbia Hiking Boots #678,Sports,Outdoor,Columbia
+790,PROD-00790,Zara Summer Dress #813,Clothing,Women's Wear,Zara
+791,PROD-00791,Zara Summer Dress #407,Clothing,Women's Wear,Zara
+792,PROD-00792,Dell Inspiron #769,Electronics,Laptops,Dell
+793,PROD-00793,Samsung Galaxy #195,Electronics,Smartphones,Samsung
+794,PROD-00794,IKEA Bookshelf #488,Home & Kitchen,Furniture,IKEA
+795,PROD-00795,IKEA Bookshelf #665,Home & Kitchen,Furniture,IKEA
+796,PROD-00796,Penguin Classic Novel #157,Books,Fiction,Penguin
+797,PROD-00797,Apple iPhone #819,Electronics,Smartphones,Apple
+798,PROD-00798,Sony WH #184,Electronics,Headphones,Sony
+799,PROD-00799,Penguin Classic Novel #965,Books,Fiction,Penguin
+800,PROD-00800,Decathlon Yoga Mat #760,Sports,Fitness,Decathlon
+801,PROD-00801,Prestige Non-Stick Pan #679,Home & Kitchen,Cookware,Prestige
+802,PROD-00802,HP Pavilion #640,Electronics,Laptops,HP
+803,PROD-00803,Samsung Galaxy #335,Electronics,Smartphones,Samsung
+804,PROD-00804,Levi's Slim Fit Jeans #988,Clothing,Men's Wear,Levi's
+805,PROD-00805,L'Oreal Shampoo #586,Beauty,Haircare,L'Oreal
+806,PROD-00806,Nike Air Max #147,Clothing,Footwear,Nike
+807,PROD-00807,Dell Inspiron #800,Electronics,Laptops,Dell
+808,PROD-00808,Nike Air Max #656,Clothing,Footwear,Nike
+809,PROD-00809,L'Oreal Shampoo #773,Beauty,Haircare,L'Oreal
+810,PROD-00810,Samsung Galaxy #283,Electronics,Smartphones,Samsung
+811,PROD-00811,Prestige Non-Stick Pan #116,Home & Kitchen,Cookware,Prestige
+812,PROD-00812,Levi's Slim Fit Jeans #701,Clothing,Men's Wear,Levi's
+813,PROD-00813,Apple iPad #870,Electronics,Tablets,Apple
+814,PROD-00814,IKEA Bookshelf #178,Home & Kitchen,Furniture,IKEA
+815,PROD-00815,Adidas Ultraboost #266,Clothing,Footwear,Adidas
+816,PROD-00816,L'Oreal Shampoo #346,Beauty,Haircare,L'Oreal
+817,PROD-00817,L'Oreal Shampoo #954,Beauty,Haircare,L'Oreal
+818,PROD-00818,IKEA Bookshelf #793,Home & Kitchen,Furniture,IKEA
+819,PROD-00819,Neutrogena Moisturizer #439,Beauty,Skincare,Neutrogena
+820,PROD-00820,IKEA Bookshelf #873,Home & Kitchen,Furniture,IKEA
+821,PROD-00821,Apple iPad #909,Electronics,Tablets,Apple
+822,PROD-00822,Dell Inspiron #612,Electronics,Laptops,Dell
+823,PROD-00823,Philips Air Fryer #154,Home & Kitchen,Appliances,Philips
+824,PROD-00824,HP Pavilion #547,Electronics,Laptops,HP
+825,PROD-00825,Zara Summer Dress #958,Clothing,Women's Wear,Zara
+826,PROD-00826,Dell Inspiron #448,Electronics,Laptops,Dell
+827,PROD-00827,Nestle Coffee Pack #887,Grocery,Beverages,Nestle
+828,PROD-00828,Nestle Coffee Pack #709,Grocery,Beverages,Nestle
+829,PROD-00829,IKEA Bookshelf #892,Home & Kitchen,Furniture,IKEA
+830,PROD-00830,Prestige Non-Stick Pan #130,Home & Kitchen,Cookware,Prestige
+831,PROD-00831,Nike Air Max #902,Clothing,Footwear,Nike
+832,PROD-00832,Columbia Hiking Boots #602,Sports,Outdoor,Columbia
+833,PROD-00833,Zara Summer Dress #464,Clothing,Women's Wear,Zara
+834,PROD-00834,Neutrogena Moisturizer #484,Beauty,Skincare,Neutrogena
+835,PROD-00835,Decathlon Yoga Mat #290,Sports,Fitness,Decathlon
+836,PROD-00836,L'Oreal Shampoo #776,Beauty,Haircare,L'Oreal
+837,PROD-00837,IKEA Bookshelf #187,Home & Kitchen,Furniture,IKEA
+838,PROD-00838,Nestle Coffee Pack #402,Grocery,Beverages,Nestle
+839,PROD-00839,Zara Summer Dress #830,Clothing,Women's Wear,Zara
+840,PROD-00840,Dell Inspiron #184,Electronics,Laptops,Dell
+841,PROD-00841,Nike Air Max #257,Clothing,Footwear,Nike
+842,PROD-00842,IKEA Bookshelf #828,Home & Kitchen,Furniture,IKEA
+843,PROD-00843,Apple iPad #857,Electronics,Tablets,Apple
+844,PROD-00844,IKEA Bookshelf #424,Home & Kitchen,Furniture,IKEA
+845,PROD-00845,Philips Air Fryer #209,Home & Kitchen,Appliances,Philips
+846,PROD-00846,Dell Inspiron #105,Electronics,Laptops,Dell
+847,PROD-00847,Adidas Ultraboost #555,Clothing,Footwear,Adidas
+848,PROD-00848,Philips Air Fryer #879,Home & Kitchen,Appliances,Philips
+849,PROD-00849,Nike Air Max #204,Clothing,Footwear,Nike
+850,PROD-00850,Apple iPad #189,Electronics,Tablets,Apple
+851,PROD-00851,Sony WH #541,Electronics,Headphones,Sony
+852,PROD-00852,Columbia Hiking Boots #670,Sports,Outdoor,Columbia
+853,PROD-00853,Neutrogena Moisturizer #624,Beauty,Skincare,Neutrogena
+854,PROD-00854,Decathlon Yoga Mat #205,Sports,Fitness,Decathlon
+855,PROD-00855,Apple iPhone #191,Electronics,Smartphones,Apple
+856,PROD-00856,Philips Air Fryer #667,Home & Kitchen,Appliances,Philips
+857,PROD-00857,Dell Inspiron #711,Electronics,Laptops,Dell
+858,PROD-00858,Nestle Coffee Pack #903,Grocery,Beverages,Nestle
+859,PROD-00859,Prestige Non-Stick Pan #984,Home & Kitchen,Cookware,Prestige
+860,PROD-00860,IKEA Bookshelf #112,Home & Kitchen,Furniture,IKEA
+861,PROD-00861,Adidas Ultraboost #523,Clothing,Footwear,Adidas
+862,PROD-00862,IKEA Bookshelf #897,Home & Kitchen,Furniture,IKEA
+863,PROD-00863,Dell Inspiron #842,Electronics,Laptops,Dell
+864,PROD-00864,Neutrogena Moisturizer #348,Beauty,Skincare,Neutrogena
+865,PROD-00865,L'Oreal Shampoo #633,Beauty,Haircare,L'Oreal
+866,PROD-00866,Sony WH #801,Electronics,Headphones,Sony
+867,PROD-00867,IKEA Bookshelf #273,Home & Kitchen,Furniture,IKEA
+868,PROD-00868,Apple iPad #375,Electronics,Tablets,Apple
+869,PROD-00869,Adidas Ultraboost #374,Clothing,Footwear,Adidas
+870,PROD-00870,Penguin Classic Novel #249,Books,Fiction,Penguin
+871,PROD-00871,Dell Inspiron #271,Electronics,Laptops,Dell
+872,PROD-00872,Decathlon Yoga Mat #382,Sports,Fitness,Decathlon
+873,PROD-00873,Decathlon Yoga Mat #406,Sports,Fitness,Decathlon
+874,PROD-00874,Penguin Classic Novel #901,Books,Fiction,Penguin
+875,PROD-00875,Dell Inspiron #469,Electronics,Laptops,Dell
+876,PROD-00876,Nike Air Max #352,Clothing,Footwear,Nike
+877,PROD-00877,Penguin Classic Novel #708,Books,Fiction,Penguin
+878,PROD-00878,Nestle Coffee Pack #300,Grocery,Beverages,Nestle
+879,PROD-00879,Columbia Hiking Boots #209,Sports,Outdoor,Columbia
+880,PROD-00880,Apple iPad #411,Electronics,Tablets,Apple
+881,PROD-00881,Apple iPhone #505,Electronics,Smartphones,Apple
+882,PROD-00882,Prestige Non-Stick Pan #961,Home & Kitchen,Cookware,Prestige
+883,PROD-00883,Nestle Coffee Pack #489,Grocery,Beverages,Nestle
+884,PROD-00884,Prestige Non-Stick Pan #550,Home & Kitchen,Cookware,Prestige
+885,PROD-00885,Prestige Non-Stick Pan #540,Home & Kitchen,Cookware,Prestige
+886,PROD-00886,Nestle Coffee Pack #239,Grocery,Beverages,Nestle
+887,PROD-00887,Adidas Ultraboost #428,Clothing,Footwear,Adidas
+888,PROD-00888,Nestle Coffee Pack #811,Grocery,Beverages,Nestle
+889,PROD-00889,Levi's Slim Fit Jeans #590,Clothing,Men's Wear,Levi's
+890,PROD-00890,Prestige Non-Stick Pan #281,Home & Kitchen,Cookware,Prestige
+891,PROD-00891,IKEA Bookshelf #426,Home & Kitchen,Furniture,IKEA
+892,PROD-00892,Adidas Ultraboost #852,Clothing,Footwear,Adidas
+893,PROD-00893,Penguin Classic Novel #689,Books,Fiction,Penguin
+894,PROD-00894,Zara Summer Dress #433,Clothing,Women's Wear,Zara
+895,PROD-00895,IKEA Bookshelf #387,Home & Kitchen,Furniture,IKEA
+896,PROD-00896,IKEA Bookshelf #473,Home & Kitchen,Furniture,IKEA
+897,PROD-00897,HP Pavilion #677,Electronics,Laptops,HP
+898,PROD-00898,Levi's Slim Fit Jeans #706,Clothing,Men's Wear,Levi's
+899,PROD-00899,Neutrogena Moisturizer #284,Beauty,Skincare,Neutrogena
+900,PROD-00900,Neutrogena Moisturizer #127,Beauty,Skincare,Neutrogena
+901,PROD-00901,Columbia Hiking Boots #825,Sports,Outdoor,Columbia
+902,PROD-00902,Levi's Slim Fit Jeans #548,Clothing,Men's Wear,Levi's
+903,PROD-00903,Adidas Ultraboost #951,Clothing,Footwear,Adidas
+904,PROD-00904,Dell Inspiron #938,Electronics,Laptops,Dell
+905,PROD-00905,Decathlon Yoga Mat #789,Sports,Fitness,Decathlon
+906,PROD-00906,Penguin Classic Novel #242,Books,Fiction,Penguin
+907,PROD-00907,Adidas Ultraboost #347,Clothing,Footwear,Adidas
+908,PROD-00908,Nike Air Max #774,Clothing,Footwear,Nike
+909,PROD-00909,Apple iPad #832,Electronics,Tablets,Apple
+910,PROD-00910,Decathlon Yoga Mat #908,Sports,Fitness,Decathlon
+911,PROD-00911,IKEA Bookshelf #175,Home & Kitchen,Furniture,IKEA
+912,PROD-00912,Columbia Hiking Boots #712,Sports,Outdoor,Columbia
+913,PROD-00913,Penguin Classic Novel #696,Books,Fiction,Penguin
+914,PROD-00914,IKEA Bookshelf #647,Home & Kitchen,Furniture,IKEA
+915,PROD-00915,HarperCollins Business Guide #990,Books,Non-Fiction,HarperCollins
+916,PROD-00916,Decathlon Yoga Mat #656,Sports,Fitness,Decathlon
+917,PROD-00917,Samsung Galaxy #909,Electronics,Smartphones,Samsung
+918,PROD-00918,Philips Air Fryer #818,Home & Kitchen,Appliances,Philips
+919,PROD-00919,Neutrogena Moisturizer #708,Beauty,Skincare,Neutrogena
+920,PROD-00920,Dell Inspiron #211,Electronics,Laptops,Dell
+921,PROD-00921,Zara Summer Dress #773,Clothing,Women's Wear,Zara
+922,PROD-00922,Philips Air Fryer #270,Home & Kitchen,Appliances,Philips
+923,PROD-00923,Nestle Coffee Pack #145,Grocery,Beverages,Nestle
+924,PROD-00924,L'Oreal Shampoo #760,Beauty,Haircare,L'Oreal
+925,PROD-00925,IKEA Bookshelf #870,Home & Kitchen,Furniture,IKEA
+926,PROD-00926,Prestige Non-Stick Pan #915,Home & Kitchen,Cookware,Prestige
+927,PROD-00927,Decathlon Yoga Mat #208,Sports,Fitness,Decathlon
+928,PROD-00928,Apple iPhone #200,Electronics,Smartphones,Apple
+929,PROD-00929,Nike Air Max #327,Clothing,Footwear,Nike
+930,PROD-00930,HarperCollins Business Guide #864,Books,Non-Fiction,HarperCollins
+931,PROD-00931,HarperCollins Business Guide #671,Books,Non-Fiction,HarperCollins
+932,PROD-00932,L'Oreal Shampoo #804,Beauty,Haircare,L'Oreal
+933,PROD-00933,L'Oreal Shampoo #326,Beauty,Haircare,L'Oreal
+934,PROD-00934,Columbia Hiking Boots #483,Sports,Outdoor,Columbia
+935,PROD-00935,IKEA Bookshelf #574,Home & Kitchen,Furniture,IKEA
+936,PROD-00936,L'Oreal Shampoo #807,Beauty,Haircare,L'Oreal
+937,PROD-00937,HarperCollins Business Guide #254,Books,Non-Fiction,HarperCollins
+938,PROD-00938,Philips Air Fryer #125,Home & Kitchen,Appliances,Philips
+939,PROD-00939,Penguin Classic Novel #207,Books,Fiction,Penguin
+940,PROD-00940,Adidas Ultraboost #525,Clothing,Footwear,Adidas
+941,PROD-00941,Dell Inspiron #218,Electronics,Laptops,Dell
+942,PROD-00942,Apple iPad #456,Electronics,Tablets,Apple
+943,PROD-00943,Adidas Ultraboost #451,Clothing,Footwear,Adidas
+944,PROD-00944,Columbia Hiking Boots #903,Sports,Outdoor,Columbia
+945,PROD-00945,Levi's Slim Fit Jeans #633,Clothing,Men's Wear,Levi's
+946,PROD-00946,Penguin Classic Novel #456,Books,Fiction,Penguin
+947,PROD-00947,Penguin Classic Novel #199,Books,Fiction,Penguin
+948,PROD-00948,Columbia Hiking Boots #839,Sports,Outdoor,Columbia
+949,PROD-00949,Columbia Hiking Boots #426,Sports,Outdoor,Columbia
+950,PROD-00950,Dell Inspiron #407,Electronics,Laptops,Dell
+951,PROD-00951,Samsung Galaxy #929,Electronics,Smartphones,Samsung
+952,PROD-00952,HP Pavilion #123,Electronics,Laptops,HP
+953,PROD-00953,Prestige Non-Stick Pan #763,Home & Kitchen,Cookware,Prestige
+954,PROD-00954,HP Pavilion #793,Electronics,Laptops,HP
+955,PROD-00955,Sony WH #858,Electronics,Headphones,Sony
+956,PROD-00956,Zara Summer Dress #628,Clothing,Women's Wear,Zara
+957,PROD-00957,Sony WH #665,Electronics,Headphones,Sony
+958,PROD-00958,Sony WH #438,Electronics,Headphones,Sony
+959,PROD-00959,Neutrogena Moisturizer #536,Beauty,Skincare,Neutrogena
+960,PROD-00960,Columbia Hiking Boots #337,Sports,Outdoor,Columbia
+961,PROD-00961,IKEA Bookshelf #744,Home & Kitchen,Furniture,IKEA
+962,PROD-00962,Sony WH #290,Electronics,Headphones,Sony
+963,PROD-00963,Decathlon Yoga Mat #505,Sports,Fitness,Decathlon
+964,PROD-00964,Apple iPhone #855,Electronics,Smartphones,Apple
+965,PROD-00965,Nestle Coffee Pack #302,Grocery,Beverages,Nestle
+966,PROD-00966,Columbia Hiking Boots #706,Sports,Outdoor,Columbia
+967,PROD-00967,Decathlon Yoga Mat #498,Sports,Fitness,Decathlon
+968,PROD-00968,Apple iPhone #821,Electronics,Smartphones,Apple
+969,PROD-00969,Levi's Slim Fit Jeans #310,Clothing,Men's Wear,Levi's
+970,PROD-00970,Nike Air Max #870,Clothing,Footwear,Nike
+971,PROD-00971,Dell Inspiron #691,Electronics,Laptops,Dell
+972,PROD-00972,HP Pavilion #918,Electronics,Laptops,HP
+973,PROD-00973,Neutrogena Moisturizer #291,Beauty,Skincare,Neutrogena
+974,PROD-00974,Philips Air Fryer #433,Home & Kitchen,Appliances,Philips
+975,PROD-00975,Levi's Slim Fit Jeans #568,Clothing,Men's Wear,Levi's
+976,PROD-00976,HP Pavilion #368,Electronics,Laptops,HP
+977,PROD-00977,Penguin Classic Novel #640,Books,Fiction,Penguin
+978,PROD-00978,Prestige Non-Stick Pan #711,Home & Kitchen,Cookware,Prestige
+979,PROD-00979,IKEA Bookshelf #725,Home & Kitchen,Furniture,IKEA
+980,PROD-00980,IKEA Bookshelf #701,Home & Kitchen,Furniture,IKEA
+981,PROD-00981,HP Pavilion #456,Electronics,Laptops,HP
+982,PROD-00982,Philips Air Fryer #965,Home & Kitchen,Appliances,Philips
+983,PROD-00983,Columbia Hiking Boots #732,Sports,Outdoor,Columbia
+984,PROD-00984,Sony WH #933,Electronics,Headphones,Sony
+985,PROD-00985,Adidas Ultraboost #729,Clothing,Footwear,Adidas
+986,PROD-00986,L'Oreal Shampoo #186,Beauty,Haircare,L'Oreal
+987,PROD-00987,Apple iPad #420,Electronics,Tablets,Apple
+988,PROD-00988,HP Pavilion #344,Electronics,Laptops,HP
+989,PROD-00989,Adidas Ultraboost #219,Clothing,Footwear,Adidas
+990,PROD-00990,Sony WH #482,Electronics,Headphones,Sony
+991,PROD-00991,Apple iPad #623,Electronics,Tablets,Apple
+992,PROD-00992,IKEA Bookshelf #528,Home & Kitchen,Furniture,IKEA
+993,PROD-00993,Nestle Coffee Pack #241,Grocery,Beverages,Nestle
+994,PROD-00994,L'Oreal Shampoo #492,Beauty,Haircare,L'Oreal
+995,PROD-00995,Decathlon Yoga Mat #290,Sports,Fitness,Decathlon
+996,PROD-00996,Penguin Classic Novel #750,Books,Fiction,Penguin
+997,PROD-00997,Neutrogena Moisturizer #810,Beauty,Skincare,Neutrogena
+998,PROD-00998,Sony WH #668,Electronics,Headphones,Sony
+999,PROD-00999,Sony WH #601,Electronics,Headphones,Sony
+1000,PROD-01000,Adidas Ultraboost #243,Clothing,Footwear,Adidas
