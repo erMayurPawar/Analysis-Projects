@@ -1,4 +1,4 @@
-Project Title: E-Commerce Sales Analysis Dashboard
+Project Title: E-Commerce Sales Analytics Dashboard
 
 Project Overview:
 Built an end-to-end BI solution using MySQL and Power BI to analyze sales performance, product trends, brand contribution, and regional revenue insights.
@@ -19,19 +19,22 @@ Business Question:
 3. Which product categories/products generate the most revenue?
 4. Which regions perform best?
 5. What is the distribution of order statuses?
+6. Popular Payment Methods by Total Orders
+7. Average Order Value by Age Group
+8. Revenue vs Net Profit
 
 KPI:
 Total Revenue
 Total Orders
 Total Units Sold
 Average Order Value
-Cancellation Rate
+Profit Margin
 
 Key Insights:
 • Overall west region generated highest revenue.
-• Columbia, Prestige, Dell this are top-performing brands.
-• Electronics contributed significantly to total revenue.
-• More than 50% orders delivered however 9% orders cancelled and 5% orders are returned.
+• Apple, Sony and Canon this are top-performing brands.
+• Product Category - Electronics contributed significantly to total revenue.
+• Over 44% people do payment using Credit Card.
 
 Dashboard Screenshorts:
 Uploaded in Screenshorts folder.
